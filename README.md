@@ -88,3 +88,9 @@ SIM800L requires: - 3.8--4.2V supply - Up to 2A burst current - Large
 low-ESR capacitor recommended
 
 Unstable power may cause SMS failures or modem resets.
+
+------------------------------------------------------------------------
+
+## Demonstration
+LinkedIn Post:
+https://www.linkedin.com/feed/update/urn:li:activity:7429783488012197888/
