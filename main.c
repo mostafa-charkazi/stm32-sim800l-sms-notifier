@@ -325,9 +325,9 @@ void Log_Error(uint8_t *msg)
   */
 static const char *PHONE_NUMBERS[] =
 {
-    "09055322375",
-    "09200510834",
-    "09126043816"
+    "0905",
+    "0920",
+    "0912"
 };
 
 /**
